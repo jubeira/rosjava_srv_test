@@ -1,0 +1,9 @@
+/CMakeLists.txt
+
+*.jar
+*gradlew
+*.bat
+*gradle
+*build/
+*.idea/
+*local.properties
